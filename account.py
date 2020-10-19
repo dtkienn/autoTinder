@@ -1,0 +1,2 @@
+username = input()
+psswd = input()
